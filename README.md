@@ -15,7 +15,7 @@ Brief Description
 ## About Me
 
 📍 Based in Milan, Italy\
-💻 Studying Computer Science and Engineering @ Politecnico di Milano
+💻 MSc Computer Science and Engineering @ Politecnico di Milano
 
 <!-- EXPERTISE -->
 ## Tech Stack
