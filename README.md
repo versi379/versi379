@@ -5,11 +5,11 @@
 <!-- PROFILE BADGES -->
 <div align="center">
 
-![Profile Count](https://komarev.com/ghpvc/?username=nabeel-shakeel&color=0e75b6&style=flat)
+![Profile Count](https://komarev.com/ghpvc/?username=versi379&color=0e75b6&style=flat)
 
 </div>
 
-An experienced _Full Stack Software Engineer_ with more than 5+ years of experience in the computer software industry Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
+Brief Description
 
 <!-- ABOUT ME -->
 ## About Me
@@ -40,15 +40,14 @@ An experienced _Full Stack Software Engineer_ with more than 5+ years of experie
 <!-- PLATFORMS -->
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-shakeel-130/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabeel_shakeel8)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelshakeel130@gmail.com)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white)](https://nabeelshakeel.substack.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-versiglioni-965789285/)
+<[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabeel_shakeel8)>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanniversiglioni@outlook.it)
 
 <!-- GITHUB STATS -->
 ## Stats
 
-<a href="https://github.com/nabeel-shakeel">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nabeel-shakeel&show_icons=true&theme=vue-dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-shakeel&theme=vue-dark&layout=compact" />
+<a href="https://github.com/versi379">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=versi379&show_icons=true&theme=vue-dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versi379&theme=vue-dark&layout=compact" />
 </a>
