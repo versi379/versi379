@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
-<h1 align="center">Hi there, I'm Nabeel 👋</h1>
-<h3 align="center">Senior Software Engineer | React | React Native | TypeScript | Go Lang</h3>
+<h1 align="center">Giovanni Versiglioni</h1>
+<h3 align="center">Software Engineer</h3>
 
 <!-- PROFILE BADGES -->
 <div align="center">
