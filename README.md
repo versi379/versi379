@@ -9,13 +9,14 @@
 
 </div>
 
-Brief Description
+Brief Bio
+
 
 <!-- ABOUT ME -->
 ## About Me
 
 📍 Based in Milan, Italy\
-💻 MSc Computer Science and Engineering @ Politecnico di Milano
+💻 MSc student Computer Science and Engineering @ Politecnico di Milano
 
 <!-- EXPERTISE -->
 ## Tech Stack
