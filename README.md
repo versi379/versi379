@@ -6,7 +6,7 @@
 ## About Me
 
 📍 Based in Milan, Italy\
-💻 MSc student Computer Science and Engineering @ Politecnico di Milano
+💻 MSc student Computer Science and Engineering @ Politecnico di Milano\
 🤖 Passionate about Artificial Intelligence and Robotics
 
 <!-- PLATFORMS -->
