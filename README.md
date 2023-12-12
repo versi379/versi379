@@ -17,6 +17,7 @@ Brief Bio
 
 📍 Based in Milan, Italy\
 💻 MSc student Computer Science and Engineering @ Politecnico di Milano
+🤖 Passionate about Artificial Intelligence and Robotics
 
 <!-- EXPERTISE -->
 ## Tech Stack
