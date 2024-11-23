@@ -11,4 +11,4 @@
 
 **[Machine Learning] Twitter Sentiment Analysis:** Achieved 90% accuracy for sentiment analysis of tweets using BERT and roBERTa.
 
-**[Software Engineering]Multiplayer Board Game:** Developed a real-time multiplayer game with socket/RMI for up to 10 players.
+**[Software Engineering] Multiplayer Board Game:** Developed a real-time multiplayer game with socket/RMI for up to 10 players.
