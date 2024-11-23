@@ -1,6 +1,8 @@
 <!-- INTRODUCTION -->
 <h1 align="center">Giovanni Versiglioni</h1>
 
+### Relevant Projects
+
 **[Software Engineering] Localization Manager:** Developed a real-time localization tool with language switching and RTL support.
 
 **[HPC] Optimized Matrix Multiplication:** Achieved 5x speedup in matrix multiplication with cuBLAS and optimized memory usage.
